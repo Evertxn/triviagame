@@ -1,0 +1,70 @@
+body {
+    background-image: url("../imgs/forest.png");
+	color: black;
+}
+
+img {
+    display: block;
+    padding-left: 645px;
+    margin-top: 150px;
+    height: ;
+    width: ;
+    padding-bottom: 0;
+    padding-top: 45px;
+}
+.jumbotron {
+  box-sizing: border-box;
+  height: 600px;
+  background-color: rgba(0, 0, 0, 0);
+  color: black;
+}
+
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+}
+
+.answer:hover {
+  background: red;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.img-wrong {
+  margin-top: 40px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+.img-head {
+    display: block;
+    padding-left: 101px;
+    margin-top: -58px;
+    padding-bottom: 0;
+    padding-top: 45px;
+    margin-left: 382px;
+}
+
